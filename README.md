@@ -1,5 +1,5 @@
 # bikesharing
-[link to dashboard]([LINK GOES HERE](https://public.tableau.com/app/profile/ryan.andrade/viz/Challenge_16493954082830/CitiBikeChallenge?publish=yes))
+([Tableau LINK](https://public.tableau.com/app/profile/ryan.andrade/viz/Challenge_16493954082830/CitiBikeChallenge?publish=yes))
 
 ## Overview of the analysis: 
 The purpose of this analysis was to display a tableau visualization encompassing the data it downloaded from the New York City bike company to pitch to an investor group in Des Moines Idaho for a similar business model.
